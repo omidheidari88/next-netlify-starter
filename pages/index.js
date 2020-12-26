@@ -12,6 +12,7 @@ export default function Home() {
 
 			<main>
 				<Header title='Welcome to Next Js ' />
+				<p>If this your first time using Next,this repo will help you to Right Start your Project</p>
 			</main>
 
 			<Footer />
